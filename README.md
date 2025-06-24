@@ -1,16 +1,4 @@
 # Introduction
-An official implementation of the paper 'High-capacity Reversible Data Hiding in Encrypted HDR Images with Multiple Data Hiders' in Pattern Analysis and Applications.
-
-# Citation
-```
-@article{pun2025general,
-  title={High-capacity Reversible Data Hiding in Encrypted HDR Images with Multiple Data Hiders},
-  author={Alfrindo Lin, Yun-Ting Lin, Wen-Ting Jao, and Yuan-Yu Tsai},
-  journal={Pattern Analysis and Applications},
-  volume={},
-  number={},
-  pages={},
-  year={2025},
-  publisher={Springer}
-}
-```
+This repository includes the test images and a simplified version of the code corresponding to our paper published in Pattern Analysis and Applications, which are sufficient to reproduce all experimental results reported therein.
+The test images are derived from HDR images available at the following website:
+http://www.anyhere.com/gward/hdrenc/pages/originals.html
