@@ -3,7 +3,7 @@ An official implementation of the paper 'High-capacity Reversible Data Hiding in
 
 # Citation
 ```
-@article{pun2024general,
+@article{pun2025general,
   title={High-capacity Reversible Data Hiding in Encrypted HDR Images with Multiple Data Hiders},
   author={Alfrindo Lin, Yun-Ting Lin, Wen-Ting Jao, and Yuan-Yu Tsai},
   journal={Pattern Analysis and Applications},
